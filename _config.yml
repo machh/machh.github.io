@@ -12,7 +12,7 @@ description: "个人技术公众号「音视频开发训练营」分享、记录
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/machh/machh.github.io/blob/main/images/qrcode.png?raw=true
+avatar: https://raw.githubusercontent.com/machh/machh.github.io/main/images/qrcode.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/machh/machh.github.io/main/images/favicon.ico
 
