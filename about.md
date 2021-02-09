@@ -4,19 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Hi，我是 lemon.
+Hi，我是 machh.
 
 ### 技能
 
-Linux后端分布式高性能服务开发，差一点精通 C++，Golang 成长中，Python小玩具。
+音视频，流媒体开发，差一点精通 C++，Golang 成长中，Python小玩具。
 
 ### 经历
 
-软件工程师(Software Engineer)，电子信息工程学士学位( Electronic and Information Engineering )，从事服务器软件后台开发工作多年，现就职腾讯（Tencent）公司。
+从事音视频开发开发工作多年，现就职baidu公司。
 
-个人技术公众号「后端技术学堂」分享、记录、成长，欢迎扫码添加。
+个人技术公众号「音视频开发训练营」分享、记录、成长，欢迎扫码添加。
 
-![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![公众号二维码](https://img-blog.csdn.net/2018053016114480?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L21hY2ho/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 
 
