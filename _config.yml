@@ -11,8 +11,8 @@ description: "个人技术公众号「音视频开发训练营」分享、记录
 # Flags below are optional
 #
 
-# URL of blog  头像
-avatar: https://github.com/machh/machh.github.io/blob/main/images/cat.png
+# URL of blog  头像  https://github.com/machh/machh.github.io/blob/main/images/cat.png
+avatar: https://pic4.zhimg.com/80/63536f2f01409f750162828a980a0380_1440w.jpg?source=1940ef5c
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/machh/machh.github.io/main/images/favicon.ico
 
